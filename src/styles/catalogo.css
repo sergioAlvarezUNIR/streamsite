@@ -1,0 +1,13 @@
+.app-catalogo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(207, 206, 206);
+    color: black;
+}
+
+.app-catalogo select{
+    font-size: large;
+    margin-bottom: 2%;
+}
+
